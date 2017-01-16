@@ -1,0 +1,16 @@
+﻿Build started 2/25/2016 9:45:45 AM.
+     1>Project "D:\VisualStudio\Data_Structure_Practical_4\Data_Structure_Practical_4\Data_Structure_Practical_4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt pratical_4.cpp pratical_4_linked_list.cpp
+         pratical_4_linked_list.cpp
+     1>d:\visualstudio\data_structure_practical_4\data_structure_practical_4\pratical_4_linked_list.cpp(61): error C2440: 'return' : cannot convert from 'int' to 'Employee *'
+                 Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+     1>d:\visualstudio\data_structure_practical_4\data_structure_practical_4\pratical_4_linked_list.cpp(114): error C2059: syntax error : '{'
+     1>d:\visualstudio\data_structure_practical_4\data_structure_practical_4\pratical_4_linked_list.cpp(114): error C2143: syntax error : missing ';' before '{'
+         pratical_4.cpp
+         Generating Code...
+     1>Done Building Project "D:\VisualStudio\Data_Structure_Practical_4\Data_Structure_Practical_4\Data_Structure_Practical_4.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.71

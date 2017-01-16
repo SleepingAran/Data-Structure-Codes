@@ -1,0 +1,18 @@
+﻿Build started 4/15/2016 1:45:19 AM.
+     1>Project "D:\VisualStudio\Data_Structure_Pratical_Assessment\Data_Structure_Pratical_Assessment\Data_Structure_Pratical_Assessment.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt assess.cpp
+         assess.cpp
+     1>d:\visualstudio\data_structure_pratical_assessment\data_structure_pratical_assessment\assess.cpp(494): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\visualstudio\data_structure_pratical_assessment\data_structure_pratical_assessment\assess.cpp(502): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\visualstudio\data_structure_pratical_assessment\data_structure_pratical_assessment\assess.cpp(510): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\visualstudio\data_structure_pratical_assessment\data_structure_pratical_assessment\assess.cpp(521): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\visualstudio\data_structure_pratical_assessment\data_structure_pratical_assessment\assess.cpp(408): warning C4715: 'calculateMonthlySalary' : not all control paths return a value
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VisualStudio\Data_Structure_Pratical_Assessment\Debug\Data_Structure_Pratical_Assessment.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VisualStudio\Data_Structure_Pratical_Assessment\Debug\Data_Structure_Pratical_Assessment.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VisualStudio\Data_Structure_Pratical_Assessment\Debug\Data_Structure_Pratical_Assessment.lib" /MACHINE:X86 Debug\assess.obj
+         Data_Structure_Pratical_Assessment.vcxproj -> D:\VisualStudio\Data_Structure_Pratical_Assessment\Debug\Data_Structure_Pratical_Assessment.exe
+     1>Done Building Project "D:\VisualStudio\Data_Structure_Pratical_Assessment\Data_Structure_Pratical_Assessment\Data_Structure_Pratical_Assessment.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.58

@@ -1,0 +1,13 @@
+﻿Build started 3/3/2016 9:34:34 AM.
+     1>Project "D:\VisualStudio\Data_Structure_Practical_5\Data_Structure_Practical_5\Data_Structure_Practical_5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\visualstudio\data_structure_practical_5\data_structure_practical_5\source.cpp(24): warning C4551: function call missing argument list
+     1>d:\visualstudio\data_structure_practical_5\data_structure_practical_5\source.cpp(25): warning C4551: function call missing argument list
+     1>d:\visualstudio\data_structure_practical_5\data_structure_practical_5\source.cpp(37): error C4716: 'Minimum' : must return a value
+     1>Done Building Project "D:\VisualStudio\Data_Structure_Practical_5\Data_Structure_Practical_5\Data_Structure_Practical_5.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.62
